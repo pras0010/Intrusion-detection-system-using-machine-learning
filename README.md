@@ -57,7 +57,7 @@ Tools:
 
 Programming language:
 
- *Python 
+ * Python 
  
 Development environment:
 
