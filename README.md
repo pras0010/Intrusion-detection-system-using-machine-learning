@@ -54,9 +54,15 @@ Limited Scalability: As network traffic volumes increase, traditional IDS may st
 
 
 Tools:
+
 Programming language:
+
  *Python 
+ 
 Development environment:
+
  *	Jupyter notebook
+
 Operating system:
+
  *	Windows
