@@ -9,27 +9,27 @@ Advanced Intrusion Detection Systems (IDS) with Deep Learning integrate neural n
 
 Methodology:
 Problem Definition and Scope-
-  	Define Objectives
-  	Scope
+  *	Define Objectives
+  *	Scope
 Data Collection and Preparation-
-  	Data Sources
-  	Data Preprocessing
+  *	Data Sources
+  *	Data Preprocessing
 Model Selection and Architecture-
-  	Xgboost
-  	Lightbgm
-  	Catboost
-  	River
-  	Scikit-learn
+  *	Xgboost
+  *	Lightbgm
+  *	Catboost
+  *	River
+  *	Scikit-learn
 
 Training and Optimization-
-  	Dataset Splitting
-  	Training Process
-  	Hyperparameter Tuning
+  *	Dataset Splitting
+  *	Training Process
+  *	Hyperparameter Tuning
 Real-time Processing and Deployment-
-  	Performance Metrics 
-  	Benchmarking
-  	Deployment
-  	Monitoring and Maintenance
+  *	Performance Metrics 
+  *	Benchmarking
+  *	Deployment
+  *	Monitoring and Maintenance
 
 Existing Tool disadvantage:
     Limited Detection Capability: Traditional IDS typically rely on predefined rules, signatures, or statistical thresholds to detect known patterns of attacks. This approach may struggle to detect novel or previously unseen threats that do not match existing signatures or patterns.High False Positive Rates: Rule-based IDS can generate a significant number of false positives, flagging benign activities as potential threats. This can overwhelm security analysts and lead to ineffective use of resources in investigating false alarms.Difficulty in Handling Complex Patterns: Traditional IDS may find it challenging to detect complex attack patterns that involve subtle variations or anomalies in network traffic. They often lack the capability to learn and adapt to evolving attack strategies over time.Manual Updates and Maintenance: Maintaining rule-based IDS requires regular updates to rules and signatures to keep pace with new threats.
